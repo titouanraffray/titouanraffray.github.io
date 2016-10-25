@@ -1,0 +1,54 @@
+body{
+  height: 100%;
+  width: 100%;
+}
+.background_image{
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  background-image: url(police_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+.lien{
+  border: 1px solid black;
+  margin-top: 20%;
+}
+.lien p {
+  font-size: 4em;
+}
+
+.margin-top-titre{
+  margin-top: 100px;
+}
+.photo_presentation{
+
+}
+.photo_presentation img{
+  height: 150px;
+  width: auto;
+}
+.paragraphe_presentation{
+border: 2px solid blue;
+height: 150px;
+color: black;
+}
+.background_color_header{
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.presentation_du_jeu{
+  text-align: center;
+
+}
+.presentation_du_jeu img{
+border: 1px solid red;
+}
+.page2{
+  margin-top: 100%;
+  position: absolute;
+  padding: 0;
+
+}
