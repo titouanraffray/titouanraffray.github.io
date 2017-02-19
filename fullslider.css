@@ -1,0 +1,19 @@
+        .slide_disclaimer {
+            display: block;
+            background: none;
+            border: none;
+            text-decoration: underline;
+            text-align: center;
+            font-size: 12px;
+            position: absolute;
+            bottom: 40px;
+            left: 130px;
+        }
+        
+        .ls-slide .btn-slider_cta {
+            text-transform: uppercase;
+            background-color: #a10000;
+            font-size: 24px;
+            padding: 25px 39px;
+            text-decoration: none;
+        }
